@@ -3,3 +3,5 @@ Belajar Python
 Belajar Geoserver
 Belajar Postrgresql
 Membuat webgis
+Publish data ke webgis
+Membuat E-shop
