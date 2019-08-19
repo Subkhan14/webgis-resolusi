@@ -1,0 +1,5 @@
+Belajar HTML, CSS, Javascript
+Belajar Python
+Belajar Geoserver
+Belajar Postrgresql
+Membuat webgis
